@@ -80,7 +80,7 @@ If you want to contribute or run the development version:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ProgrammerAditya36/next-sweep.git
+git clone https://github.com/AdityaAmitK/next-sweep.git
 cd next-sweep
 
 # Install dependencies
@@ -121,4 +121,4 @@ MIT © 2025 next-sweep contributors
 ## Links
 
 - [npm package](https://www.npmjs.com/package/next-sweep)
-- [GitHub repository](https://github.com/ProgrammerAditya36/next-sweep)
+- [GitHub repository](https://github.com/AdityaAmitK/next-sweep)

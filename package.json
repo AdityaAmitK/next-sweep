@@ -22,6 +22,14 @@
     "next",
     "sweep"
   ],
-  "author": "",
+  "author": "Aditya Amit Kinjawadekar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdityaAmitK/next-sweep.git"
+  },
+  "homepage": "https://github.com/AdityaAmitK/next-sweep#readme",
+  "bugs": {
+    "url": "https://github.com/AdityaAmitK/next-sweep/issues"
+  },
   "license": "MIT"
 }
